@@ -1,0 +1,13 @@
+frozendict>=1.2
+numpy>=1.18.4
+scipy>=1.4.1
+pandas>=1.0.3
+torch~=1.6.0
+requests>=2.23.0
+tqdm>=4.46.0
+mlflow>=1.8.0
+humanize>=2.4.0
+seaborn>=0.11.0
+matplotlib>=3.3.2
+
+
